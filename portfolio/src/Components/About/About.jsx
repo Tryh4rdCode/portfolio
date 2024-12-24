@@ -15,9 +15,9 @@ const About = () => {
             </div>
             <div className="about-right">
                 <div className="about-para">
-                    <p>Apasionado por la tecnología. He desarrollado habilidades en lenguajes de programación como PYTHON, JAVASCRIPT, SQL, HTML, además de FRAMEWORKS como DJANGO y REACT, aplicándolos en proyectos de software enfocados en resolver problemas prácticos.</p>
+                    <p>Passionate about technology. I have developed skills in programming languages ​​such as PYTHON, JAVASCRIPT, SQL, HTML, as well as FRAMEWORKS such as DJANGO and REACT, applying them in software projects focused on solving practical problems.</p>
                     <br />
-                    <p>Tengo experiencia trabajando en entornos exigentes y colaborativos, con una mentalidad orientada a soluciones y a la mejora continua. Busco aportar eficiencia en el desarrollo de aplicaciones web, con un enfoque en la experiencia del usuario y las mejores prácticas del sector.</p>
+                    <p>I have experience working in demanding and collaborative environments, with a solution-oriented mentality and continuous improvement. I seek to provide efficiency in the development of web applications, with a focus on user experience and best practices in the sector.</p>
                 </div>
                 <div className="about-skills">
                     <div className="about-skill"><p>HTML & CSS</p><hr /></div>
@@ -30,19 +30,17 @@ const About = () => {
         </div>
         <div className="about-achievements">
             <div className="about-achievement">
-                <h1>10+</h1>
-                <p>YEARS OF EXPERIENCE</p>
+                <h1>20+</h1>
+                <p>YEARS WORK EXPERIENCE</p> 
+                    
             </div>
             <hr />
             <div className="about-achievement">
-                <h1>90+</h1>
-                <p>PROJECTS COMPLETED</p>
+                <h1>6+</h1>
+                <p>TECHNOLOGY CERTIFICATIONS</p>
             </div>
-            <hr />
-            <div className="about-achievement">
-                <h1>15+</h1>
-                <p>HAPPY CLIENTS</p>
-            </div>
+           
+            
 
         </div>
     </div>
