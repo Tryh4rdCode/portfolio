@@ -7,9 +7,8 @@
 
 .hero img{
     margin-top: 50px;
-    width: 300px; /* Ajusta el tamaño de la imagen según tus necesidades */
-    height: auto;
-    border-radius: 50%; /* Si deseas que la imagen sea circular */
+    width: 300px; 
+    border-radius: 50%; 
 }
 
 .hero h1{
